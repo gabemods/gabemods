@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 📌 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabemods&show_icons=true&theme=default)
 
