@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 😄
 
 ## 📌 Recent Activity
 <!--START_SECTION:activity-->
