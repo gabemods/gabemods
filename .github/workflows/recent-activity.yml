@@ -2,13 +2,13 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: Readme-Workflows/recent-activity@main
+      - uses: Readme-Workflows/Readme-Activity@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
